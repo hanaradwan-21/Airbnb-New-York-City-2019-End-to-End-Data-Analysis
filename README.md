@@ -1,11 +1,11 @@
-# 🗽 Airbnb New York City 2019 — End-to-End Data Analysis
+#  Airbnb New York City 2019 — End-to-End Data Analysis
 
 > **Final project of the Data Analysis track — Voltix EG internship (Task 12).**
 > From raw listings to a two-page interactive Power BI dashboard, business insights and recommendations.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 New York City is one of the biggest short-term rental markets in the world, and the 2019 Airbnb listings give a detailed picture of how supply, pricing and demand behave across the five boroughs.
 
@@ -21,7 +21,7 @@ This project takes the dataset through the full analytics workflow: **understand
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 | Item | Details |
 |---|---|
@@ -50,7 +50,7 @@ This project takes the dataset through the full analytics workflow: **understand
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## 🧹Data Cleaning & Preparation
 
 | Issue found | Finding | Treatment |
 |---|---|---|
@@ -64,7 +64,7 @@ This project takes the dataset through the full analytics workflow: **understand
 
 ---
 
-## 🔍 Exploratory Analysis — Key Findings
+##  Exploratory Analysis — Key Findings
 
 ### 1. Supply is concentrated in two boroughs
 Manhattan (21,661) and Brooklyn (20,104) hold **~85% of all listings**. Queens follows with 5,666, then the Bronx (1,091) and Staten Island (373).
@@ -120,11 +120,10 @@ File: `Airbnb_Listings.pbix` — a two-page interactive dashboard.
 - Bar chart: price by borough
 - Scatter chart: price by neighbourhood
 
-> 📸 *Add dashboard screenshots here:* `![Page 1](images/page1.png)` · `![Page 2](images/page2.png)`
 
 ---
 
-## 💡 Business Insights & Recommendations
+##  Business Insights & Recommendations
 
 | # | Insight | What it means | Recommendation |
 |---|---|---|---|
@@ -138,13 +137,13 @@ File: `Airbnb_Listings.pbix` — a two-page interactive dashboard.
 
 ---
 
-## 🛠️ Tools
+##  Tools
 
 - **Python** (pandas) — exploration and cleaning
 - **Power BI** — interactive dashboard
 - **Dataset** — Airbnb NYC 2019 (`AB_NYC_2019.csv`)
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── README.md
@@ -155,7 +154,7 @@ File: `Airbnb_Listings.pbix` — a two-page interactive dashboard.
 └── images/                     # Dashboard screenshots
 ```
 
-## ✅ Conclusion
+##  Conclusion
 
 NYC's Airbnb market is defined by **where** a listing is and **what type** it is. Manhattan and Brooklyn dominate supply, entire homes command a big premium, and price alone doesn't predict popularity. These findings give hosts, guests and the platform clear, data-backed starting points for pricing, expansion and quality decisions.
 
@@ -165,4 +164,4 @@ NYC's Airbnb market is defined by **where** a listing is and **what type** it is
 
 Final task of the Data Analysis track in the **Voltix EG** internship.
 
-**Hana** — Artificial Intelligence student | Machine Learning · Data Analysis · Computer Vision
+**Hana** — Artificial Intelligence student | Machine Learning · Data Analysis 
